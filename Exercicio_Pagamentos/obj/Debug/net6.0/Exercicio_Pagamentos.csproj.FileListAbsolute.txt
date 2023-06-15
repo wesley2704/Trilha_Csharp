@@ -1,0 +1,15 @@
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\bin\Debug\net6.0\Exercicio_Pagamentos.exe
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\bin\Debug\net6.0\Exercicio_Pagamentos.deps.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\bin\Debug\net6.0\Exercicio_Pagamentos.runtimeconfig.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\bin\Debug\net6.0\Exercicio_Pagamentos.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\bin\Debug\net6.0\Exercicio_Pagamentos.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.csproj.AssemblyReference.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.AssemblyInfoInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.AssemblyInfo.cs
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\refint\Exercicio_Pagamentos.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\Exercicio_Pagamentos.genruntimeconfig.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Pagamentos\obj\Debug\net6.0\ref\Exercicio_Pagamentos.dll

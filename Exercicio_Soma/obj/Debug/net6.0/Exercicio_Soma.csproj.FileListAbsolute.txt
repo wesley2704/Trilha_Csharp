@@ -1,0 +1,15 @@
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.csproj.AssemblyReference.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.AssemblyInfoInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.AssemblyInfo.cs
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.csproj.CoreCompileInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\bin\Debug\net6.0\Exercicio_Soma.exe
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\bin\Debug\net6.0\Exercicio_Soma.deps.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\bin\Debug\net6.0\Exercicio_Soma.runtimeconfig.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\bin\Debug\net6.0\Exercicio_Soma.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\bin\Debug\net6.0\Exercicio_Soma.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\refint\Exercicio_Soma.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\Exercicio_Soma.genruntimeconfig.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Soma\obj\Debug\net6.0\ref\Exercicio_Soma.dll

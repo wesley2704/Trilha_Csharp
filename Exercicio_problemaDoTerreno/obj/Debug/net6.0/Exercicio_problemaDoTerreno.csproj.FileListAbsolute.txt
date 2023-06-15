@@ -1,0 +1,15 @@
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.csproj.AssemblyReference.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.AssemblyInfoInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.AssemblyInfo.cs
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.csproj.CoreCompileInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\bin\Debug\net6.0\Exercicio_problemaDoTerreno.exe
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\bin\Debug\net6.0\Exercicio_problemaDoTerreno.deps.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\bin\Debug\net6.0\Exercicio_problemaDoTerreno.runtimeconfig.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\bin\Debug\net6.0\Exercicio_problemaDoTerreno.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\bin\Debug\net6.0\Exercicio_problemaDoTerreno.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\refint\Exercicio_problemaDoTerreno.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\Exercicio_problemaDoTerreno.genruntimeconfig.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_problemaDoTerreno\obj\Debug\net6.0\ref\Exercicio_problemaDoTerreno.dll

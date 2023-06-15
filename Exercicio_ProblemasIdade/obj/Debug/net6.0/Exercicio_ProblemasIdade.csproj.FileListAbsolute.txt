@@ -1,0 +1,15 @@
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.csproj.AssemblyReference.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.AssemblyInfoInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.AssemblyInfo.cs
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.csproj.CoreCompileInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\bin\Debug\net6.0\Exercicio_ProblemasIdade.exe
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\bin\Debug\net6.0\Exercicio_ProblemasIdade.deps.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\bin\Debug\net6.0\Exercicio_ProblemasIdade.runtimeconfig.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\bin\Debug\net6.0\Exercicio_ProblemasIdade.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\bin\Debug\net6.0\Exercicio_ProblemasIdade.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\refint\Exercicio_ProblemasIdade.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\Exercicio_ProblemasIdade.genruntimeconfig.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_ProblemasIdade\obj\Debug\net6.0\ref\Exercicio_ProblemasIdade.dll

@@ -1,0 +1,15 @@
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\bin\Debug\net6.0\Exercicio_Troco.exe
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\bin\Debug\net6.0\Exercicio_Troco.deps.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\bin\Debug\net6.0\Exercicio_Troco.runtimeconfig.json
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\bin\Debug\net6.0\Exercicio_Troco.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\bin\Debug\net6.0\Exercicio_Troco.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.csproj.AssemblyReference.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.AssemblyInfoInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.AssemblyInfo.cs
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.csproj.CoreCompileInputs.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\refint\Exercicio_Troco.dll
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.pdb
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\Exercicio_Troco.genruntimeconfig.cache
+C:\Users\125274\Desktop\CSHARP\Exercicio_Troco\obj\Debug\net6.0\ref\Exercicio_Troco.dll
